@@ -62,15 +62,7 @@ Here is a roadmap of the topics we will cover in this notebook, progressing from
 - Implement the **Transformer** architecture and fine-tune **BERT** for toxicity classification.
 
 
-```
 
----
-
-## 📊 **Model Evaluation**
-- We will evaluate the model's performance using **accuracy**, **precision**, **recall**, and **F1-score**.
-- We'll plot **ROC curves** and use **confusion matrices** to assess how well the model performs in distinguishing toxic from non-toxic comments.
-
----
 
 ## 🚀 **Key Technologies Used**
 - **Python**: Main programming language for data manipulation, analysis, and model building.
